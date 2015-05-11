@@ -1,6 +1,6 @@
-//= require store/spree_frontend
-//= require store/jquery.magnific-popup
-//= require store/product_or
+//= require spree/frontend/spree_frontend
+//= require spree/frontend/jquery.magnific-popup
+//= require spree/frontend/product_or
 
 $(document).ready(function() {
   $('.zoom-img').magnificPopup({
