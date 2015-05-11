@@ -1,4 +1,4 @@
-//= require spree/frontend/spree_frontend
+//= require spree/frontend
 //= require spree/frontend/jquery.magnific-popup
 //= require spree/frontend/product_or
 
