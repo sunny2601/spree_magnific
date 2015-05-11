@@ -1,1 +1,1 @@
-//= require spree/backend/spree_backend
+//= require spree/backend
